@@ -1,0 +1,12 @@
+node_modules/
+dist/
+package-lock.json
+
+coverage/
+.env
+*.log
+*.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
